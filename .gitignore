@@ -8,5 +8,5 @@ __pycache__/
 
 # CSV file
 *.csv
-*.txt
 tasks_numpy
+SQL
