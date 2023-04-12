@@ -8,7 +8,6 @@ __pycache__/
 
 # CSV file
 *.csv
-*.cpp
 
 tasks_numpy
 SQL
